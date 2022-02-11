@@ -2,7 +2,8 @@
 
 This an Unlocked Bot that shares your TikTok Video, which will trigger the Youtube algorythm and make your youtube video more Relevant
 
-![image](https://user-images.githubusercontent.com/98614666/153663283-d2b34b71-d31a-4fbf-9c0a-043ea9ba1716.png)
+![image-removebg-preview (4)](https://user-images.githubusercontent.com/98614666/153665544-b0e21c21-b7cb-4e02-b5f6-5c7c468914c7.png)
+
 
 - read requirements
 - read Guide
