@@ -8,3 +8,4 @@ This an Unlocked Bot that shares your TikTok Video, which will trigger the Youtu
 - read requirements
 - read Guide
 
+Code must keep running ! - Working on a cloud version
