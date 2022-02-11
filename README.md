@@ -1,2 +1,6 @@
 # TikTok-Share-Bot
-This is an Unlocked Shar bot, README.txt for more info
+
+This an Unlocked Bot that shares your TikTok Video, which will trigger the Youtube algorythm and make your youtube video more Relevant
+
+
+
