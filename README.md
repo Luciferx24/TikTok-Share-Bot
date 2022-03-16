@@ -6,9 +6,9 @@ This an Unlocked Bot that shares your TikTok Video, which will trigger the TikTo
 
 ![image-removebg-preview (4)](https://user-images.githubusercontent.com/98614666/153665544-b0e21c21-b7cb-4e02-b5f6-5c7c468914c7.png)
 
-##Chromedriver
+## Chromedriver
 - Download: https://chromedriver.chromium.org/downloads
-- Note PATH and replace
+- Note PATH and replace line `27`
 ## Requirements
 
 - selenium
@@ -23,5 +23,6 @@ pip install termcolor
 ```
 pip install colors
 ```
+---
 
-Code must keep running ! - Working on a cloud version
+**Code must keep running ! - Working on a cloud version**
